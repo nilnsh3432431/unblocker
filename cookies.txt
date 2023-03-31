@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.1060914651.1680224207
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	_device_id	83e34a03d5215040848b6fa7829fa6b2
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	zrr%2BuahjnlMcLu0kuYjYOrNAWtm30OxVIO9Aab3RrzGqX93Tt8aGBIMuuXy6TEFLWR0lKEBUPrGzkXYnexNwXLJfGIcFqzoDVBXe1lwrL5nZAKjhWJTOQIw6YtP68xuLGk0VfX4oehFoMo0NnzZKtwmIeZgblbbE12gaDEo9%2F5cBSnzRojZc%2F02wSTt82Tst8LkeTHOv0biu05okMYGfhkFtQ3Ygl5dKltZTBQCymM5OjMwaYWyk1mTPzBlo2pMfJos1CA8%3D--H7RckxqezB3nPHnq--YXhzq%2FRTJbJhKR5J8OqcGg%3D%3D
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.npmjs.com	TRUE	/	FALSE	1999999999	__cf_bm	N1Mei5Mt2vTU87Hyjd0Rzt1H1QBO20A2X02xMOtInOo-1680224290-0-AX8pTy4qGcZkPuSJtulh4MvAbPYQTBZcCeTewe4oucMdbzyUUMX3MbvQxJXKFCTf3jaeAfrDUngO0jhqQ9ndmg0=
+.npmjs.com	TRUE	/	FALSE	1999999999	__cfruid	2a93f3abf2209b417c845a3b2d6644baa0c5a947-1680224290
+www.npmjs.com	TRUE	/	FALSE	1999999999	SameSite	None
+
